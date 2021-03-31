@@ -4,12 +4,8 @@
 - 🌱 I’m currently learning Flutter and JS Framewors.
 - 📫 How to reach me, gcmillora@gmail.com :)
 
-### 🚦 Stats
-
-<a href="https://github.com/natee/website">
-  <img src="https://github-readme-stats.vercel.app/api?username=gcmillora&show_icons=true&hide=commits" />
-</a>
-<a href="https://github.com/natee/website">
+### GitHub Stats
+<a href="https://github.com/gcmillora/website">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcmillora&layout=compact" />
 </a>
 <!---
