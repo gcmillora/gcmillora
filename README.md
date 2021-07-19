@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Greg Norman Millora, @gcmillora
-- 2nd Year BS Computer Science Student - [University of the Philippines - Mindanao]
+- 3rd Year BS Computer Science Student - [University of the Philippines - Mindanao]
 - 👀 I’m interested in programming and building applications!
-- 🌱 I’m currently learning Flutter and JS Framewors.
-- 📫 How to reach me, gcmillora@gmail.com :)
+- 🌱 I’m currently learning Flutter and JS Frameworks.
+- 📫 How to reach me, gn.millora@gmail.com :)
 
 ### GitHub Stats
 <a href="https://github.com/gcmillora/website">
