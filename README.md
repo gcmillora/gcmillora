@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Greg Norman Millora, @gcmillora
-- 4th Year BS Computer Science Student - [University of the Philippines - Mindanao]
-- Graduating MAGNACUMLAUDE honors
+- Graduate of BS Computer Science - Magnacumlaude - [University of the Philippines - Mindanao]
 - 👀 I’m interested in programming and building applications!
-- 🌱 I’m currently learning Strapi and JS Frameworks.
-- 📫 How to reach me, gn.millora@gmail.com :)
+- 🌱 I’m currently learning NestJs and NextJs.
+- 📫 How to reach me, gregmillora.dev@gmail.com :)
 
 ### GitHub Stats
 <a href="https://github.com/gcmillora/website">
