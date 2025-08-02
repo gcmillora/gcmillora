@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Greg Norman Millora, @gcmillora<br>🖥️ Junior Software Developer @ Old St. Labs 🇬🇧<br>🎓 Graduate of BS Computer Science - Magnacumlaude - [University of the Philippines - Mindanao]<br>👀 I’m interested in programming and building applications!<br>🌱 I’m currently learning NestJs and NextJs.<br>📫 How to reach me, gregmillora.dev@gmail.com :)
+👋 Hi, I’m Greg Norman Millora, @gcmillora<br>🖥️ Software Developer @ Colorkrew 🇯🇵<br>🎓 Graduate of BS Computer Science - Magnacumlaude - [University of the Philippines - Mindanao]<br>👀 I’m interested in programming and building applications!<br> 📫 How to reach me, gregmilloradev@gmail.com :)
 
 
 ## 🌐 Socials:
