@@ -1,14 +1,10 @@
-# Greg Norman Millora
+### Greg Millora
 
 Software Developer at [Colorkrew](https://www.colorkrew.com/) in Japan.
 
-BS Computer Science, Magna Cum Laude — University of the Philippines Mindanao.
+Building things with TypeScript, Go, and the tools around them.
 
-## What I work with
-
-TypeScript, Go, Node.js, Next.js, NestJS, React, PostgreSQL, Prisma, AWS, GCP, Tailwind CSS.
-
-## Links
-
-- [LinkedIn](https://linkedin.com/in/gncmillora)
-- gregmilloradev@gmail.com
+<p>
+  <a href="https://linkedin.com/in/gncmillora">LinkedIn</a> &middot;
+  <a href="mailto:gregmilloradev@gmail.com">Email</a>
+</p>
